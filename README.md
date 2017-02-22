@@ -1,27 +1,20 @@
-# TabCruise
+# Tab Cruise
 
-Provides features when you use the web browser to display TV content
+![Tab Cruise Logo](./app/images/icon-128.png)
 
-## Installation
+A browser extension that automatically rotates current windows tabs when unattended. It functions alot like a screensaver. Prefect for a KIOSK, digital signage, digital agile boards or dashboard setups. *NOTE: This browser addon is not going to disable your OS's screensaver settings you must do that yourself :)*
 
-	$ npm install
+## Develop and Test
 
-## Usage
+Run `npm install`
 
-Run `$ gulp --watch` and load the `dist`-directory into chrome.
-
-## Entryfiles (bundles)
-
-There are two kinds of entryfiles that create bundles.
-
-1. All js-files in the root of the `./app/scripts` directory
-2. All css-,scss- and less-files in the root of the `./app/styles` directory
+Then run `gulp --watch` and load the `dist`-directory into chrome.
 
 ## Tasks
 
 ### Build
 
-    $ gulp
+`gulp`
 
 
 | Option         | Description                                                                                                                                           |
@@ -33,7 +26,7 @@ There are two kinds of entryfiles that create bundles.
 | `--sourcemaps` | Force the creation of sourcemaps. Default: !production                                                                                                |
 
 
-### pack
+### Package and Deploy/Submit to Addon Store
 
 Zips your `dist` directory and saves it in the `packages` directory.
 
