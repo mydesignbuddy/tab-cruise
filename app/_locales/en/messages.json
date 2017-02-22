@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "Tab Cruise",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "TabCruise",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Provides features when you use the web browser to display TV content",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "Tab Cruise",
+    "description": "The title of the browser action button"
+  }
+}
