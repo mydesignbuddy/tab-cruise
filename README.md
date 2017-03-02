@@ -32,7 +32,7 @@ Then run `gulp --watch` and load the `dist`-directory into chrome.
 
 Zips your `dist` directory and saves it in the `packages` directory.
 
-    $ gulp pack --vendor=firefox
+    $ gulp pack
 
 ### Version
 
