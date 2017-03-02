@@ -2,7 +2,7 @@
 
 ![Tab Cruise Logo](./app/images/icon-128.png)
 
-A browser extension that automatically rotates current windows tabs when unattended. It functions alot like a screensaver. Prefect for a KIOSK, digital signage, digital agile boards or dashboard setups. *NOTE: This browser addon is not going to disable your OS's screensaver settings you must do that yourself :)*
+A Chrome browser extension that automatically rotates current windows tabs when unattended. It functions alot like a screensaver. Prefect for a KIOSK, digital signage, digital agile boards or dashboard setups. *NOTE: This browser addon is not going to disable your OS's screensaver settings you must do that yourself :)*
 
 ## Develop and Test
 
