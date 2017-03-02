@@ -4,6 +4,8 @@
 
 A Chrome browser extension that automatically rotates current windows tabs when unattended. It functions alot like a screensaver. Prefect for a KIOSK, digital signage, digital agile boards or dashboard setups. *NOTE: This browser addon is not going to disable your OS's screensaver settings you must do that yourself :)*
 
+Available on Google Chrome Store [https://chrome.google.com/webstore/detail/tab-cruise/hcdhhgmjcdacdogkopooepahclggnhae](https://chrome.google.com/webstore/detail/tab-cruise/hcdhhgmjcdacdogkopooepahclggnhae)
+
 ## Develop and Test
 
 Run `npm install`
