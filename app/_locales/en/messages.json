@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
   },
   "appDescription": {
-    "message": "Provides features when you use the web browser to display TV content",
+    "message": "A browser extension that automatically rotates current windows tabs when unattended.",
     "description": "The description of the application"
   },
   "browserActionTitle": {
