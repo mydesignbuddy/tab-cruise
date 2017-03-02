@@ -1,7 +1,7 @@
 {
   "name": "tabcruise",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Provides features when you use the web browser to display TV content",
   "scripts": {
     "start": "npm run dev:chrome",
